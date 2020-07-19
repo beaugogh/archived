@@ -1,0 +1,1 @@
+The checkpoints are periodically saved here, at the end of each epoch, old checkpoints are automatically removed.
